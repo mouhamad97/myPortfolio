@@ -10,7 +10,7 @@
         var defaults = {
         	startVal: 0,
         	decimals: 0,
-        	duration: 2,
+        	duration: 4,
         };
 
         if (typeof params === 'number') {
